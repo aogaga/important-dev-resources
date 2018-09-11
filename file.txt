@@ -1,0 +1,2 @@
+# collection of libraries for android and IOS
+1. https://blog.autsoft.hu/the-android-and-ios-alternative-library-collection/
